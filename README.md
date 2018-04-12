@@ -27,6 +27,8 @@ This was an amazing program! I learned the following:
 
 Deployed on heroku: https://rmw-mobile-web-specialist.herokuapp.com/
 
+![](app-screenshot.PNG)
+
 ---
 # Ryan M. Waite
 ### Web / Mobile Developer
