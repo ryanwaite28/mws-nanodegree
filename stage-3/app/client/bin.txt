@@ -1,0 +1,16 @@
+start command:
+
+python 2
+python -m SimpleHTTPServer 8000
+
+python 3
+python -m http.server 7000
+
+
+
+How to start:
+
+inside the stage-2 folder
+
+open the server folder in a cmd/terminal --> install dependencies with: npm install --> start server with: npm start
+open the app folder in a cmd/terminal --> install dependencies with: npm install --> cd to client/ --> start client with: python -m http.server 7000

@@ -1,0 +1,29 @@
+{
+  "name": "mws-stage-two",
+  "version": "1.0.0",
+  "description": "A restaurant app",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "gulp serve",
+    "start": "nodemon app.js"
+  },
+  "author": "Ryan M. Waite",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "browser-sync": "^2.23.6",
+    "express": "^4.16.3",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^4.0.0",
+    "gulp-minify": "^2.1.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^3.0.0",
+    "nodemon": "^1.17.3",
+    "nunjucks": "^3.1.2",
+    "vinyl-transform": "^1.0.0"
+  }
+}

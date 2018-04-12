@@ -1,0 +1,43 @@
+@media (max-width: 875px) {
+	/* Tags */
+
+
+
+	/* IDs */
+
+	/* #flex-container {
+		display: block;
+	  flex-direction: initial;
+	}
+
+	#flex-div-1 {
+		flex-grow: 1;
+	}
+
+	#flex-div-2 {
+		flex-grow: 1;
+	} */
+
+	#select-container {
+		display: block;
+		flex-flow: initial;
+		justify-content: initial;
+	}
+
+	#middle-box {
+		width: auto;
+	}
+
+	/* Classes */
+
+	.filter-options select {
+	    display: block;
+	    margin: auto;
+	    margin-bottom: 10px;
+	}
+
+	.select-label {
+		text-align: center;
+	  display: block;
+	}
+}

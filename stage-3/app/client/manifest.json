@@ -1,0 +1,32 @@
+{
+  "name": "Restaurants In The Neighborhood",
+  "short_name": "Restaurants",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/img/appicon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/appicon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/appicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/appicon-626.jpg",
+      "sizes": "626x626",
+      "type": "image/jpg"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#252831",
+  "theme_color": "#0059b3",
+  "orientation": "landscape"
+}
