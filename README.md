@@ -3,8 +3,8 @@
 #### Mobile Web Specialist
 https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024
 
-![Udacity - Mobile Web Specialist](nd-grad-cert-mws.png)
-![Google Certified - Mobile Web Specialist](google-mws-cert.png)
+<img src="nd-grad-cert-mws.png" alt="Udacity - Mobile Web Specialist" width="500px" />
+<img src="google-mws-cert.png" alt="Google Certified - Mobile Web Specialist" width="500px" />
 ___
 
 > Prepare for Google's Mobile Web Specialist certification with courses from Google.
